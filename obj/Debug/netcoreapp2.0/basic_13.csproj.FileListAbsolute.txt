@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/obj/Debug/netcoreapp2.0/basic_13.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/obj/Debug/netcoreapp2.0/basic_13.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/obj/Debug/netcoreapp2.0/basic_13.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/bin/Debug/netcoreapp2.0/basic_13.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/bin/Debug/netcoreapp2.0/basic_13.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/bin/Debug/netcoreapp2.0/basic_13.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/bin/Debug/netcoreapp2.0/basic_13.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/bin/Debug/netcoreapp2.0/basic_13.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/obj/Debug/netcoreapp2.0/basic_13.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/basic_13/obj/Debug/netcoreapp2.0/basic_13.pdb
